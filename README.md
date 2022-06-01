@@ -5,7 +5,6 @@ Thank you for visiting! Here you can find the latest projects I'm working on not
 - 🔭 I’m currently working on finishing my bachelors degree in Computer Science
 - 🌱 I'm currently learning how to better understand and use AWS from the perspective of a developer. I just completed my [cloud practitioner certification](https://www.credly.com/badges/8c72ff16-65ba-4070-b784-ae008729fc0e/linked_in)!
 - 📫 How to reach me: I can be emailed at dev@grantralls.net
-- ⚡️ Fun fact: McDonald's once created a bubble gum flavored broccoli! The intent was to get kids to eat healthier. It didn't pass the testing phase. When they tested it to see the reactions of kids, they were "confused" by the taste.
 
 <!--
 **grantralls/grantralls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
